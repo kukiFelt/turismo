@@ -4,7 +4,7 @@ export default function Banner(){
            <h2 className="">Lets go now</h2>
            <h3 className="">explore</h3>
            <h4 className="font-bold">and travel</h4>
-           <button className="bg-green-700 rounded-md border-lime-500 text-xs text-center p-2 mt-3">
+           <button className="bg-green-600 rounded-md border-lime-500 text-xs text-center p-2 mt-3">
             VIEW OUR TOURS
            </button>
         </div>
