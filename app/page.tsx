@@ -1,5 +1,6 @@
 import Advertising from "./components/Advertising";
 import Banner from "./components/Banner";
+import Contact from "./components/Contact";
 import Gallery from "./components/Gallery";
 import Header from "./components/Header";
 import Landscape from "./components/Landscape";
@@ -14,6 +15,7 @@ export default function Home() {
       <Advertising/>
       <Panel />
       <Gallery />
+      <Contact />
     </div>
  
   )
